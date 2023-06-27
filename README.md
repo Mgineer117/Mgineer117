@@ -2,7 +2,7 @@
 - Majoring in Mechanical Engineering
 - Minoring in Computational Mathematics
 - Proficient languages:
--     Python (Image & Data processing and Tensorflow)
+-     Python (Image & Data processing and Tensorflow & Pytorch)
 -     MATLAB & Simulink (Analysis, Simulation, and Deep Learning)
 -     
 
