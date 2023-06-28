@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Minjae Cho
+- 👋 Hi, I’m Minjae Cho, Junior at Mississippi State University.
 - Majoring in Mechanical Engineering
 - Minoring in Computational Mathematics
 - Proficient languages:
