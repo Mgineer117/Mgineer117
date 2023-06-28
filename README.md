@@ -4,7 +4,6 @@
 - Proficient languages:
 -     Python (Image & Data processing and Tensorflow & Pytorch)
 -     MATLAB & Simulink (Analysis, Simulation, and Deep Learning)
--     
 
 <!---
 Mgineer117/Mgineer117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
