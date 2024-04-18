@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Minjae Cho, Ph.D student majoring in Aerospace Engineering at the University of Illinois @ Urbana-Champaign.
+- Please shoot me an e-mail (minjae5@illinois.edu) for any questions regarding potential collaboration, research questions, and any academic opportunities.
 - My major study is creating reliable/ practical autonomous systems using AI.
 - I hold B.Sc of Mechanical Engineering from Mississippi State University with minor in applied mathematics.
 - Proficient languages:
