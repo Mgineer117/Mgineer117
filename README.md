@@ -4,7 +4,7 @@
 - Proficient languages:
 -     Python (Image & Data processing and Tensorflow & Pytorch)
 -     MATLAB & Simulink (Analysis, Simulation, and Deep Learning)
-- Please shoot me an e-mail (minjae5@illinois.edu) for any questions regarding potential collaboration, research questions, and any academic opportunities.
+- Please shoot me an e-mail (minjae5@illinois.edu) for any questions regarding research questions and any academic opportunities.
 <!---
 Mgineer117/Mgineer117 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
