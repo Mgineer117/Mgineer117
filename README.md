@@ -1,5 +1,5 @@
 - 👋 Hi, I’m MJ (Minjae) Cho, Ph.D student majoring in Aerospace Engineering at the University of Illinois @ Urbana-Champaign.
-- My major study is creating AI Robots, specializing at Safe, Hierarchical, and Meta Reinforcement Learning.
+- My major study is creating a safe autonomous system via Reinforcement Learning and Control. I also manage my study archive at [Medium](https://medium.com/@mj.research117).
 - I hold a B.Sc in Mechanical Engineering from Mississippi State University with a minor in applied mathematics.
 - Check my latest news from [MJ Scholar](https://scholar.google.com/citations?user=w2klAW4AAAAJ&hl=en) and my [CV](https://drive.google.com/file/d/14wjQewj5iw-F0_BXZlzLKIw55ghL9yxE/view?usp=sharing).
 
